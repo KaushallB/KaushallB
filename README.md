@@ -1,7 +1,7 @@
 # Hi there, I'm Kaushal! 👋
 
 ## 🚀 About Me
-I'm a passionate developer with experience in front-end, back-end, and database management. I love building applications and exploring new technologies.
+I'm a tech enthusiast with a strong focus on data analysis, Python development, Quality Assurance (QA) and OpenAI Integration. I enjoy working with data,  ensuring software quality.
 
 ## 🛠️ Tech Stack
 
@@ -13,6 +13,7 @@ I'm a passionate developer with experience in front-end, back-end, and database 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushalbikramgajmer)
