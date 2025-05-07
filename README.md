@@ -3,6 +3,8 @@
 ## 🚀 About Me
 A tech enthusiast trying to learn and explore
 
+Do check out my website: https://kaushalbikramgajmer.com.np/
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
