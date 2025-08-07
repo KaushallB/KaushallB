@@ -1,94 +1,29 @@
-<div id="top"></div>
+# Hi there, I'm Kaushal! 👋
 
-<h1 align="center">
-  <div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800;">
-    Kaushal Bikram Gajmer 
-  </div>
-  <br />
-  <div>
-    <img alt="github repos" src="https://badges.strrl.dev/repos/KaushallB?color=000000&style=for-the-badge&labelColor=7E3ACE" />
-    <img alt="commits today" src="https://badges.strrl.dev/commits/daily/KaushallB?color=000000&style=for-the-badge&labelColor=7E3ACE" />
-    <img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/KaushallB?color=000000&style=for-the-badge&labelColor=7E3ACE" />
-    <img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/KaushallB?color=000000&style=for-the-badge&labelColor=7E3ACE" />
-    <img alt="all commits" src="https://badges.strrl.dev/commits/all/KaushallB?color=000000&style=for-the-badge&labelColor=7E3ACE" />
-  </div>
-</h1>
+## 🚀 About Me
+A tech enthusiast trying to learn and explore
 
-<br />
+Do check out my website: https://kaushalbikramgajmer.com.np/
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KaushallB&label=Profile%20views&color=7E3ACE&style=for-the-badge" alt="Profile Views" />
-</p>
+## 🛠️ Tech Stack
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 
-## 👋 Hi there, I'm Kaushal!
 
-### 🚀 About Me
-A tech enthusiast passionate about  automation, fullstack development and exploring cool tools and frameworks.
 
-🔗 **Portfolio**: [kaushalbikramgajmer.com.np](https://kaushalbikramgajmer.com.np/)
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,selenium,html,css,bootstrap,php,js,react,mysql,git,postman,openai" />
-</p>
-
----
-
-## 📈 Stats and Streaks
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-carol42.vercel.app/api?username=KaushallB&count_private=true&show_icons=true&theme=midnight-purple&bg_color=0,130F40,000000&hide_border=true&hide_title=true" alt="GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=KaushallB&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=KaushallB&theme=darkhub&column=9&no-frame=true&margin-w=15&margin-h=15" />
-</div>
-
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaushalbikramgajmer/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/KaushallB">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🔍 Repo Info
-
-<p align="center">
-  <img src="https://img.shields.io/github/repo-size/KaushallB/KaushallB?color=9f4bff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/KaushallB/KaushallB?color=9f4bff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/KaushallB/KaushallB?color=9f4bff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/KaushallB/KaushallB?color=9f4bff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/m/KaushallB/KaushallB?color=9f4bff&style=for-the-badge" />
-</p>
-
----
-
-<h1 align="center">
-  <div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800;">
-    Thank you for visiting!
-  </div>
-</h1>
-
-<p align="right">
-  <a href="#top">
-    <img src="https://img.shields.io/badge/Back_To_Top-blueviolet?style=for-the-badge" alt="back to top" />
-  </a>
-</p>
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushalbikramgajmer/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaushallB)
