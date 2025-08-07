@@ -5,6 +5,8 @@ A tech enthusiast trying to learn and explore
 
 Do check out my website: https://kaushalbikramgajmer.com.np/
 
+ <img alt="all commits" src="https://badges.strrl.dev/commits/all/KaushallB?color=000000&style=for-the-badge&labelColor=7E3ACE" />
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
