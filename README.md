@@ -1,12 +1,15 @@
 # Hi there, I'm Kaushal! 👋
 
-## 🚀 About Me
+##  About Me
 A tech enthusiast trying to learn and explore
 
 Do check out my website: https://kaushalbikramgajmer.com.np/
+ <img
+        alt="all commits"
+        src="https://badges.strrl.dev/commits/all/KaushallB?color=000000&style=for-the-badge&labelColor=7E3ACE"
+    />
 
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -25,6 +28,6 @@ Do check out my website: https://kaushalbikramgajmer.com.np/
 
 
 
-## 📫 Connect with Me
+##  Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushalbikramgajmer/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaushallB)
