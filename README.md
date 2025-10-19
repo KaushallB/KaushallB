@@ -8,16 +8,17 @@ Do check out my website: https://kaushalbikramgajmer.com.np/
  ##  GitHub Overview
 
 <div align="center">
-  <img src="https://badges.strrl.dev/repos/KaushallB?color=000000&style=for-the-badge&labelColor=9f4bff" alt="GitHub Repos"/>
-  <img src="https://badges.strrl.dev/commits/daily/KaushallB?color=000000&style=for-the-badge&labelColor=9f4bff" alt="Commits Today"/>
-  <img src="https://badges.strrl.dev/commits/weekly/KaushallB?color=000000&style=for-the-badge&labelColor=9f4bff" alt="Commits This Week"/>
-  <img src="https://badges.strrl.dev/commits/monthly/KaushallB?color=000000&style=for-the-badge&labelColor=9f4bff" alt="Commits This Month"/>
-  <img src="https://badges.strrl.dev/commits/all/KaushallB?color=000000&style=for-the-badge&labelColor=9f4bff" alt="Total Commits"/>
+  <img src="https://badges.strrl.dev/repos/KaushallB?color=101010&style=for-the-badge&labelColor=00f5d4" alt="Repos"/>
+  <img src="https://badges.strrl.dev/commits/daily/KaushallB?color=101010&style=for-the-badge&labelColor=00f5d4" alt="Daily Commits"/>
+  <img src="https://badges.strrl.dev/commits/weekly/KaushallB?color=101010&style=for-the-badge&labelColor=00f5d4" alt="Weekly Commits"/>
+  <img src="https://badges.strrl.dev/commits/monthly/KaushallB?color=101010&style=for-the-badge&labelColor=00f5d4" alt="Monthly Commits"/>
+  <img src="https://badges.strrl.dev/commits/all/KaushallB?color=101010&style=for-the-badge&labelColor=00f5d4" alt="All Commits"/>
 </div>
 
-<div align="center">
+<br>
 
-  <img height="180em" src="https://streak-stats.demolab.com/?user=KaushallB&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=KaushallB&theme=react&hide_border=true&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" alt="GitHub Streak"/>
 </div>
 
 ##  Tech Stack
