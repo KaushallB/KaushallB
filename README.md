@@ -19,7 +19,7 @@ Portfolio: https://kaushalbikramgajmer.com.np/
 <br />
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=KaushallB&theme=react&hide_border=true&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" />
+  <img src="https://streak-stats.demolab.com/?user=KaushallB&theme=react&hide_border=true&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" />
 </div>
 
 ---
