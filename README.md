@@ -1,7 +1,7 @@
 # Hi there, I'm Kaushal! 👋
 
 ##  About Me
-A tech enthusiast trying to learn and explore
+A tech enthusiast trying to explore and learn
 
 Do check out my website: https://kaushalbikramgajmer.com.np/
 
